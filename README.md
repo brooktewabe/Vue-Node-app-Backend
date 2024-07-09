@@ -1,4 +1,4 @@
-# Node.js – JWT Authentication example with PostgreSQL example
+# Node.js – JWT Authentication example with PostgreSQL example 
 
 ## User Registration, User Login and Authorization process.
 The diagram shows flow of how we implement User Registration, User Login and Authorization processes.
